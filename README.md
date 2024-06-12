@@ -8,8 +8,8 @@
   
 ## :mailbox: Connect with Me</br>
 <br/>
-<a href="www.linkedin.com/in/puravsaluja4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puravsaluja" height="30" width="40" /></a>&nbsp; 
-<a href="https://www.instagram.com/puravsaluja13/" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="puravsaluja" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/puravsaluja4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puravsaluja" height="30" width="40" /></a>&nbsp; 
+<a href="https://www.instagram.com/puravsaluja13" target="blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="puravsaluja" height="30" width="40" /></a>
 <a href="https://personal-website-wine-sigma-44.vercel.app" target="blank"><img align="center" src="https://github.com/nilaysrivastava/nilaysrivastava/assets/139038819/3a1c61ba-c0fa-4f34-82e7-5a0791b33e14" alt="nilaysriivastava" height="30" width="40" /></a>
 </p>
 </div>
@@ -23,7 +23,7 @@
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/java-original.svg" height="40" width="52" alt="sass logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java-original.svg" height="40" width="52" alt="sass logo"  />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" height="40" width="52" alt="c logo"  />
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" height="40" width="52" alt="cpp logo"  />
 <br/>
