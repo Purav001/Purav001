@@ -2,7 +2,7 @@
 
 
 
-<p align="center"><a href="https://github.com/purav001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=A+Passionate+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://github.com/purav001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=A+Passionate+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" /></a></p>
 
 <div align="center">
   
