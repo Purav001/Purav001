@@ -4,14 +4,15 @@
 
 <p align="center"><a href="https://github.com/purav001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=A+Passionate+Self-motivated+Tech+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" /></a></p>
 
-<div align="center">
 <br>
 
-- A passionate Self-motivated Full Stack developer
-- UI/UX Designer
-- Currently learning BlockChain by Self
+🔭 A passionate Self-motivated Full Stack developer
+⚡ Budding UI/UX Designer
+🌱 Currently learning BlockChain by Self
 
 <br><br>
+<div align="center">
+
   
 ## :mailbox: Connect with Me</br>
 <br/>
@@ -79,6 +80,14 @@
 
 ###
 
+</div>
+<br />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/spurav001/purav001/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 <br />
 
