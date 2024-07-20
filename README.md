@@ -6,9 +6,9 @@
 
 <br>
 
-🔭 A passionate Self-motivated Full Stack developer
-⚡ Budding UI/UX Designer
-🌱 Currently learning BlockChain by Self
+🔭 A passionate Self-motivated Full Stack developer <br/>
+⚡ Budding UI/UX Designer <br/>
+🌱 Currently learning BlockChain by Self <br/>
 
 <br><br>
 <div align="center">
