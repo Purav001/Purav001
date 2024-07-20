@@ -85,7 +85,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/Purav001/Purav001/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/Purav001/Purav001/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <br/><br/><br/>
  />
   
   <br/><br/><br/>
