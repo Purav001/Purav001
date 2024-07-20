@@ -10,8 +10,7 @@
 ⚡ Budding UI/UX Designer <br/><br/>
 🌱 Currently learning BlockChain by Self <br/><br/>
 
-<br><br>
-
+<br>
 
   
 ## :mailbox: Connect with Me</br>
