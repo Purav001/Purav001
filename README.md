@@ -75,9 +75,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 <img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />&nbsp; 
-<img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>&nbsp; &nbsp; 
-<img height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Postman" title="Framer Motion"/>&nbsp; 
-<img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/>
+<img height="40" width="52" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>&nbsp; &nbsp; 
+<img height="40" width="52" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Postman" title="Framer Motion"/>&nbsp; 
+<img height="40" width="52" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" title="Canva"/>
 </div>
 
 ###
