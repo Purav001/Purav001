@@ -45,7 +45,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
----
 
 ## 🎨 Frontend
 
@@ -58,7 +57,6 @@
 ![Framer Motion](https://img.shields.io/badge/framer_motion-black?style=for-the-badge&logo=framer&logoColor=white)
 ![Spline](https://img.shields.io/badge/spline-000000?style=for-the-badge&logo=spline&logoColor=white)
 
----
 
 ## 🛠 Backend / Databases
 
@@ -70,7 +68,6 @@
 ![Prisma](https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
 
 ## 🤖 ML / Data
 
@@ -80,7 +77,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
 
 ## ⚙️ Tools / DevOps
 
@@ -102,10 +98,6 @@
 </br>
 </div>
 <br />
-<p align="center"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=purav001&theme=gotham&show_icons=true" alt="puravsaluja"/>&nbsp; &nbsp; 
-
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=purav001&show_icons=true&theme=gotham"/>
-</p>
 
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=purav001&theme=gotham"/>&nbsp; &nbsp; 
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
