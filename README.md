@@ -29,7 +29,7 @@
 <a href="https://leetcode.com/puravsaluja/" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
 </a>
-<a href="https://purav-portfolio-ten.vercel.app/" target="blank"><img align="center" src="https://github.com/Purav001/purav_portfolio/blob/main/src/app/favicon.ico" alt="Purav Saluja" height="30" width="40" /></a> 
+<a href="https://purav-portfolio-ten.vercel.app/" target="blank"><img align="center" src="https://github.com/Purav001/purav_portfolio/blob/main/src/app/favicon.ico" alt="Purav Saluja" height="40" width="40" /></a> 
 </p>
 </div>
 
