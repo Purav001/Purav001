@@ -28,6 +28,8 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%E2%8F%B3+2%2B+years+of+exp+in+%E2%9E%A1%EF%B8%8F+;%E2%9A%99%EF%B8%8F+DevOps+%7C+%F0%9F%92%BB+Development+%7C+%E2%9A%99%EF%B8%8F+MLOps;%F0%9F%97%82%EF%B8%8F+Database+Management;%F0%9F%9A%80+Deploying+workflows;%F0%9F%A4%96+Automating+processes;%F0%9F%8C%8D+ML/DL+%7C+RAG+%7C+LLM;%F0%9F%A7%A0+Strong+analytical+skills;%F0%9F%A4%9D+Team-oriented+mindset;%F0%9F%8E%AF+Delivering+impactful+results" alt="Typing SVG" />
   </a>
 </p> -->
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
+
 <div align="center">
 <br>
 ⚡ Applied Scientist Intern @Amazon <br/><br/>
@@ -129,5 +131,12 @@
 
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=purav001&label=Profile%20views&color=0e75b6&style=flat"
-    alt="puravsaluja" /></p>
+<p align="center">
+    <a href="docs/hidden/easter_egg.md">
+        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
+    </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
