@@ -9,7 +9,7 @@
 </p>
 <div align="center">
 <br>
-⚡ Upcoming Applied Scientist @Amazon <br/><br/>
+⚡ Applied Scientist Intern @Amazon <br/><br/>
 🔭 A passionate Self-motivated Full Stack developer <br/><br/>
 🌱 Currently Exploring ML form roots <br/><br/>
 
